@@ -1,4 +1,4 @@
-package com.jojoe77777.mixin;
+package com.jojoe77777.cursorfix.mixin;
 
 import net.minecraft.client.util.InputUtil;
 import org.lwjgl.glfw.GLFW;
