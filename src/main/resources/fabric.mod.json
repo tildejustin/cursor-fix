@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "cursorfix",
+  "version": "${version}",
+  "name": "CursorFix",
+  "description": "Fixes cursor not always being set to the middle of the screen when opening a GUI",
+  "authors": [
+    "jojoe77777"
+  ],
+  "contributors": [],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "mixins": [
+    "cursorfix.mixins.json"
+  ],
+  "depends": {
+    "minecraft": ">=1.14.4"
+  }
+}
