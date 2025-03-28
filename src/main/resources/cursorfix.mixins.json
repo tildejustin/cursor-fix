@@ -6,12 +6,11 @@
   "injectors": {
     "defaultRequire": 1
   },
+  "client": [
+    "MixinInputUtil"
+  ],
   "overwrites": {
     "conformVisibility": true,
     "requireAnnotations": true
-  },
-  "client": [
-    "MixinInputUtil",
-    "MouseMixin"
-  ]
+  }
 }
